@@ -1,0 +1,7 @@
+Variables and Data Types: Strings, integers, floats, booleans.
+Conditionals: if, else, elif.
+Loops: for and while.
+Functions: Defining and calling functions.
+List Comprehensions: Fast, one-liners to work with lists.
+Input/Output: How to take user input and print output.
+

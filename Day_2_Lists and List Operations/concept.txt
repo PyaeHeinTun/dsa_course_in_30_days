@@ -1,0 +1,4 @@
+List Basics: Indexing, slicing, and creating lists.
+List Methods: append(), insert(), remove(), pop(), sort(), etc.
+List Comprehensions: Efficient ways to create lists.
+Advanced Slicing: Working with sublists using slicing techniques.

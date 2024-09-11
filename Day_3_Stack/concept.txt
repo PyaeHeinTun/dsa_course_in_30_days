@@ -1,0 +1,16 @@
+What is a Stack? 
+Ans: A stack follows the Last In, First Out (LIFO) principle. 
+     The last element added is the first to be removed, just like a stack of plates.
+
+Core Operations:
+
+1. Push: Add an item to the top of the stack.
+2. Pop: Remove the top item.
+3. Peek: Check the top item without removing it.
+4. isEmpty: Check if the stack is empty.
+
+
+Real-Life Examples:
+
+1. Browser history (backtracking pages).
+2. Undo operations in text editors.
